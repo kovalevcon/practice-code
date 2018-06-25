@@ -4,12 +4,13 @@ A collection of practical task in different programming language.
 
 The tasks affect a different category of problems:
 
-* Fundamentals
-* Arithmetic
-* Mathematics
-* Algorithms
-* Numbers
-* Arrays
+* Fundamentals;
+* Arithmetic;
+* Mathematics;
+* Algorithms;
+* Numbers;
+* Arrays;
+* Strings.
 
 The tasks are taken from different sources, a list of possible ones below.
 
