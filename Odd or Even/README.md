@@ -1,5 +1,7 @@
 #Odd or Even
 
+Source: https://www.codewars.com/kata/5949481f86420f59480000e7
+
 ## Task:
 
 Given an array of numbers (a list in groovy), determine whether the sum of all of the numbers is odd or even.

@@ -5,6 +5,9 @@ A collection of practical task in different programming language.
 The tasks affect a different category of problems:
 
 * Fundamentals;
+* Declarative Programming;
+* Regular Expressions;
+* Advanced Language Features;
 * Arithmetic;
 * Mathematics;
 * Algorithms;
