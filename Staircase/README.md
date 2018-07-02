@@ -1,6 +1,6 @@
 # Staircase
 
-Source: https://www.hackerrank.com/challenges/staircase/problem
+Source: [Link](https://www.hackerrank.com/challenges/staircase/problem)
 
 ## Task:
 

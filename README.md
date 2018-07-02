@@ -2,7 +2,7 @@
 
 A collection of practical task in different programming language.
 
-The tasks affect a different category of problems:
+The tasks maybe in following category of problems:
 
 * Fundamentals;
 * Declarative Programming;
@@ -11,11 +11,12 @@ The tasks affect a different category of problems:
 * Arithmetic;
 * Mathematics;
 * Algorithms;
+* Interpreters;
 * Numbers;
 * Arrays;
 * Strings.
 
-The tasks are taken from different sources, a list of possible ones below.
+The tasks are taken from open sources, a list of possible ones below.
 
 * HackerRank: [My profile](https://www.hackerrank.com/zilich08 "HackerRank profile")
 * CodeWars: [My profile](https://www.codewars.com/users/kovalevcon "CodeWars profile")
