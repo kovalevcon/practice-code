@@ -14,7 +14,8 @@ The tasks maybe in following category of problems:
 * Interpreters;
 * Numbers;
 * Arrays;
-* Strings.
+* Strings;
+* Datetime.
 
 The tasks are taken from open sources, a list of possible ones below.
 
