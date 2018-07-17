@@ -60,4 +60,4 @@ For each `grade` of the `n` grades, print the rounded grade on a new line.
 ## Solution:
 
 * **PHP (7.2)** language in `grading-students.php`.
-* **Python 3** language in `time-conversion.py`.
+* **Python 3** language in `grading-students.py`.
