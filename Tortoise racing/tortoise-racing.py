@@ -1,9 +1,12 @@
+from math import floor
+
+
 def race(v1, v2, g):
     if v1 >= v2:
         return None
 
     hours = g / (v2 - v1)
-    return [res / 3600, res % 3600 / 60, res % 60]
+    return [floor(hours), floor(hours * 60) % 60, floor(hours * 3600) % 60]
 
 
-print(race(720, 850, 70))  # 13.09.2017
+print(race(720, 850, 70))  # [0, 32, 18]
