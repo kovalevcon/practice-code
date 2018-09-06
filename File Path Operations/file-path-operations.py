@@ -3,9 +3,7 @@ class FileMaster(object):
     def __init__(self, filepath):
         parts = filepath.split('/')
         last_part = len(parts) - 1
-        fullname = parts[last_part].split('.')
-        self.__filename = fullname[0]
-        self.__extension = fullname[1]
+        self.__filename, self.__extension = parts[last_part].split('.')
         self.__dirpath = '/'.join(parts[:last_part]) + '/'
 
     def extension(self):
