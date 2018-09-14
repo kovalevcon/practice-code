@@ -7,7 +7,7 @@
  */
 
 /**
- * Find max int for two array function
+ * Find formula for linear sequence
  *
  * @param array $sequence
  * @return string
@@ -38,10 +38,10 @@ function getFunction(array $sequence): string
     return "Non-linear sequence";
 }
 
-echo "<pre>get_function([0, 1, 2, 3, 4])\r\n";
+echo "<pre>getFunction([0, 1, 2, 3, 4])\r\n";
 echo getFunction([0, 1, 2, 3, 4]); // "f(x) = x"
 echo "</pre>";
 
-echo "<pre>get_function([-19, -20, -21, -22, -23])\r\n";
+echo "<pre>getFunction([-19, -20, -21, -22, -23])\r\n";
 echo getFunction([-19, -20, -21, -22, -23]); // "f(x) = -x - 19"
 echo "</pre>";
