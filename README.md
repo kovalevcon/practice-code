@@ -11,13 +11,15 @@ The tasks maybe in following category of problems:
 * Arithmetic;
 * Mathematics;
 * Algorithms;
+* Cryptography;
+* Security;
 * Interpreters;
 * Numbers;
 * Arrays;
 * Strings;
 * Datetime.
 
-The tasks are taken from open sources, a list of possible ones below.
+The tasks are taken from open sources, a list of possible ones below:
 
 * HackerRank: [My profile](https://www.hackerrank.com/zilich08 "HackerRank profile")
 * CodeWars: [My profile](https://www.codewars.com/users/kovalevcon "CodeWars profile")
