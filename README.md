@@ -23,3 +23,4 @@ The tasks are taken from open sources, a list of possible ones below:
 
 * HackerRank: [My profile](https://www.hackerrank.com/zilich08 "HackerRank profile")
 * CodeWars: [My profile](https://www.codewars.com/users/kovalevcon "CodeWars profile")
+* LeetCode: [My profile](https://leetcode.com/kovalevcon/ "LeetCode profile")
