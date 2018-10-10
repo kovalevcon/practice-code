@@ -4,14 +4,11 @@ def expanded_form(num):
     :rtype str
     """
     res = []
-    delimiters = [10**x for x in range(len(str(num)) - 1, 0, -1)]
+    delimiters = [10**x for x in range(len(str(num)) - 1, -1, -1)]
     for delimiter in delimiters:
         quotient, remain = divmod(num, delimiter)
         res.append(quotient * delimiter)
         num = remain
-
-    if num != 0:
-        res.append(num)
 
     return ' + '.join(list(map(str, res)))
 
