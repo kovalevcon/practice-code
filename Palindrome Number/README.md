@@ -54,3 +54,4 @@ true
 
 * **PHP 7** language in `palindrome-number.php`.
 * **Python 3** language in `palindrome-number.py`.
+* **JavaScript ES6** language in `palindrome-number.js`.
