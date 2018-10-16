@@ -61,4 +61,4 @@ Print the elements of linked list from head to tail, each in a new line.
 
 * **PHP 7** language in `insert-to-head-linked-list.php`.
 * **Python 3** language in `insert-to-head-linked-list.py`.
-* **JavaScript ES6** language in `insert-to-head-linked-list.py`.
+* **JavaScript ES6** language in `insert-to-head-linked-list.js`.
