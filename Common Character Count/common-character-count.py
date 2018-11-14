@@ -5,8 +5,7 @@ def commonCharacterCount(s1, s2):
     :rtype: int
     """
     result = 0
-    unique = [i for i in set(s1)]
-    for i in unique:
+    for i in set(s1):
         result += min(s1.count(i), s2.count(i))
 
     return result
