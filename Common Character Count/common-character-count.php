@@ -7,7 +7,7 @@
  */
 
 /**
- * find the number of common characters between two strings function
+ * Find the number of common characters between two strings function
  *
  * @param string $s1
  * @param string $s2
