@@ -19,7 +19,7 @@ function my_crib(int $n): string
     $maxWidth = $count + ($repeat * 2);
     $shortLength = ($maxWidth - $count) / 2 - 1;
 
-    $spaces = str_repeat(' ', $n * 2);
+    $spaces = str_repeat(' ', $repeat);
     $underscores = str_repeat('_', $count);
     $maxSpaces = str_repeat(' ', $maxWidth - 2);
     $shortSpaces = str_repeat(' ', $shortLength);
