@@ -1,11 +1,11 @@
 /**
  * Check is lucky ticket number
  *
- * @param {int} s
+ * @param {int} n
  * @return {boolean}
  */
-const isLucky = s => {
-  const arr = (""+s).split('').map(v => {
+const isLucky = n => {
+  const arr = (""+n).split('').map(v => {
     return parseInt(v);
   });
   const middle = parseInt(arr.length / 2);
