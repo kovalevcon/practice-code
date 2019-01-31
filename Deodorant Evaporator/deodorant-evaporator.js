@@ -17,6 +17,6 @@ const evaporator = (content, evap_per_day, threshold) => {
   return days;
 };
 
-console.log(evaporator(10, 10, 10)); // 29
+console.log(evaporator(10, 10, 10)); // 22
 console.log(evaporator(50, 12, 1)); // 37
-console.log(evaporator(10, 1, 1)); // 45
+console.log(evaporator(10, 1, 1)); // 459
