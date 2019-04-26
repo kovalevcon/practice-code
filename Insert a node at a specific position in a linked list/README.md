@@ -68,3 +68,4 @@ Return a reference to the list head. Locked code prints the list for you.
 * **PHP 7** language in `insert-to-position-linked-list.php`.
 * **Python 3** language in `insert-to-position-linked-list.py`.
 * **JavaScript ES6** language in `insert-to-position-linked-list.js`.
+* **Go** language in `insert-to-position-linked-list.go`.
