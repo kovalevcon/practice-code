@@ -14,12 +14,12 @@ You may assume the integer does not contain any leading zero, except the number 
 **Sample Input**
 
 ```
-[1,2,3]
+[1, 2, 3]
 ```
 
 **Sample Output**
 ```
-[1,2,4]
+[1, 2, 4]
 ```
 
 ## Tags:
