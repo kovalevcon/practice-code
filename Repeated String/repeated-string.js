@@ -29,6 +29,6 @@ const repeatedString = (s, n) => {
   return (counter(s) * Math.floor(n / s.length)) + counter(s.substr(0, n % s.length));
 };
 
-console.log(repeatedString('abcac', 10));
-console.log(repeatedString('aba', 10));
-console.log(repeatedString('a', 1000000000000));
+console.log(repeatedString('abcac', 10)); // 4
+console.log(repeatedString('aba', 10)); // 7
+console.log(repeatedString('a', 1000000000000)); // 1000000000000
