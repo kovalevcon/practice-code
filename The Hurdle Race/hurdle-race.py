@@ -1,8 +1,6 @@
 # Complete the hurdleRace function below.
 def hurdleRace(k, height):
-    mx = max(height)
-
-    return abs(mx - k) if mx > k else 0
+    return (0 if(k>max(height)) else (max(height)-k))
 
 
 print(hurdleRace(4, [1, 6, 3, 5, 2]))  # 2
